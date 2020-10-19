@@ -4,3 +4,4 @@ git status
 git commit -m "messege"
 git log
 git push
+git pull
